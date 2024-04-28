@@ -1,4 +1,4 @@
-function focusmap(direction)
+local function focusmap(direction)
     vim.keymap.set("n", "<leader>"..direction, function()
         require("focus").split_command(direction)
     end)
