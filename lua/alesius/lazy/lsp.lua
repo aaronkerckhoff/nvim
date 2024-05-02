@@ -29,7 +29,12 @@ return {
                 "lua_ls",
                 "rust_analyzer",
                 "gopls",
+                "typos_lsp",
+                "pyright",
+                "jdtls",
+                "tsserver",
             },
+            automatic_installation = true,
             handlers = {
                 function(server_name) -- default handler (optional)
 
