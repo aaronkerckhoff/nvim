@@ -30,7 +30,7 @@ return {
                 "rust_analyzer",
                 "gopls",
                 "typos_lsp",
-                "pyright",
+                "pylsp",
                 "jdtls",
                 "tsserver",
             },
