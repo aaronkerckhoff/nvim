@@ -29,7 +29,6 @@ return {
                 "lua_ls",
                 "rust_analyzer",
                 "gopls",
-                "typos_lsp",
                 "pylsp",
                 "jdtls",
                 "tsserver",
