@@ -31,7 +31,7 @@ return {
                 "gopls",
                 "pylsp",
                 "jdtls",
-                "tsserver",
+                "ts_ls",
             },
             automatic_installation = true,
             handlers = {
