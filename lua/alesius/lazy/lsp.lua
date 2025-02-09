@@ -29,7 +29,7 @@ return {
                 "lua_ls",
                 "rust_analyzer",
                 "gopls",
-                "pylsp",
+                "pyright",
                 "jdtls",
                 "ts_ls",
             },
